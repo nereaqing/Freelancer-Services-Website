@@ -18,6 +18,7 @@ Incluye sección de servicios, formulario de contacto y navegación adaptable.
 ## Tecnologías
 - HTML5
 - CSS3 (Flexbox, Grid)
+- Responsive design
 
 ## Características
 
