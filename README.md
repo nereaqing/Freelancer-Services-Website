@@ -7,7 +7,13 @@ Incluye sección de servicios, formulario de contacto y navegación adaptable.
 
 ## Vista previa
 
-![alt text](imgs_readme/image.png)
+### En ordenador
+
+![Vista previa ordenador](img/image.png)
+
+### En móvil
+
+![Vista previa movil](img/image2.png)
 
 ## Tecnologías
 - HTML5
@@ -15,9 +21,8 @@ Incluye sección de servicios, formulario de contacto y navegación adaptable.
 
 ## Características
 
-- **Sección Hero** con imagen de fondo y overlay.
-- **Navegación responsive** (columnas en móviles, horizontal en escritorio).
-- **Tres tarjetas de servicios**, con iconos y diseño limpio.
-- **Formulario de contacto** con layout adaptable en tablet y desktop.
-- Diseño totalmente **responsive** (móvil, tablet y escritorio).
+- Navegación responsive (columnas en móviles, horizontal en escritorio).
+- Tres tarjetas de servicios, con iconos y diseño limpio.
+- Formulario de contacto.
+- Diseño responsive (móvil, tablet y escritorio).
 - Scroll Snap integrado en varias secciones.
